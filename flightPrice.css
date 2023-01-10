@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+	box-sizing: border-box;
+}
+body {
+	color: #FFFFFF;
+	background-image: url(bookingForm/img/airline.jpg);
+    background-size: cover;
+	/* background: hsl(248, 75%, 8%); */
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+	height: 200vh;
+	/* margin: -20px 0 50px; */
+}
+
+#form{ 
+    background-color:black;
+    height:500px;
+    width:700px;
+    padding:20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+/* input {
+	background-color: #eee;
+	border: none;
+	padding: 5px 5px;
+	margin: 8px 11px;
+	width: 100%;
+} */
+
+#src{
+	font-size: 4vh;
+	font-style: italic;
+	color: #FFFFFF;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#dst{
+	padding-top: 10px;
+	font-size: 4vh;
+	font-style: italic;
+	color: #FFFFFF;
+}
+
+content{
+  position: relative;
+  overflow: hidden;
+  width: 768px;
+  max-width: 100%;
+  min-height: 480px;
+  
+}
+
+#pricebox{
+	position: relative;
+  overflow: hidden;
+  width: 768px;
+  max-width: 100%;
+  min-height: 480px;
+  
+}
+
+.input2 .input-group{
+    width:195px;
+    margin:5px;
+    background: transparent;
+    color:#fff
+}
+.input3 .input-group{
+    margin-left: 50px;
+}
+.input4 #input-group{
+    width:300px;
+    margin:5px;
+    background: transparent;
+    color:#fff
+}
+.input4 .input-group1{
+    width:615px;
+    margin:5px;
+    background: transparent;
+    color:#fff
+}
+.input5 h3{
+    border-bottom: 2px solid #3399ff;
+    width:220px;
+    padding: 5px;
+}
+.input-group{
+    width:300px;
+    margin:5px;
+    background: transparent;
+    color:#fff
+}
+.input-group1{
+    width:615px;
+    margin:5px;
+    background: transparent;
+    color:#fff
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 14px 2px;
+  cursor: pointer;
+}

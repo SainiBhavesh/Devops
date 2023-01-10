@@ -1,0 +1,178 @@
+[
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1367",
+        "depTime": "22:20",
+        "source": "Mumbai",
+        "duration": "01 h 45 m",
+        "type": "Non stop",
+        "arrivalTime": "00:05",
+        "destination": "+ 1 DAY",
+        "rate": "Bengaluru"
+    },
+    {
+        "company": "Air India",
+        "flightNo": "AI 607",
+        "depTime": "16:40",
+        "source": "Mumbai",
+        "duration": "01 h 45 m",
+        "type": "Non stop",
+        "arrivalTime": "18:25",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,552"
+    },
+    {
+        "company": "Vistara",
+        "flightNo": "UK 507",
+        "depTime": "17:55",
+        "source": "Mumbai",
+        "duration": "01 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "19:15",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,552"
+    },
+    {
+        "company": "Air India",
+        "flightNo": "AI 641",
+        "depTime": "18:50",
+        "source": "Mumbai",
+        "duration": "01 h 40 m",
+        "type": "Non stop",
+        "arrivalTime": "20:30",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,552"
+    },
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1306",
+        "depTime": "19:00",
+        "source": "Mumbai",
+        "duration": "01 h 50 m",
+        "type": "Non stop",
+        "arrivalTime": "20:50",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,606"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 6571",
+        "depTime": "23:10",
+        "source": "Mumbai",
+        "duration": "01 h 35 m",
+        "type": "Non stop",
+        "arrivalTime": "00:45",
+        "destination": "+ 1 DAY",
+        "rate": "Bengaluru"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 1784",
+        "depTime": "21:50",
+        "source": "Mumbai",
+        "duration": "02 h",
+        "type": "Non stop",
+        "arrivalTime": "23:50",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,851"
+    },
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1341",
+        "depTime": "20:25",
+        "source": "Mumbai",
+        "duration": "01 h 40 m",
+        "type": "Non stop",
+        "arrivalTime": "22:05",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,900"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 5252",
+        "depTime": "18:50",
+        "source": "Mumbai",
+        "duration": "01 h 50 m",
+        "type": "Non stop",
+        "arrivalTime": "20:40",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,000"
+    },
+    {
+        "company": "Air India",
+        "flightNo": "AI 603",
+        "depTime": "06:45",
+        "source": "Mumbai",
+        "duration": "01 h 45 m",
+        "type": "Non stop",
+        "arrivalTime": "08:30",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,077"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 5256",
+        "depTime": "20:35",
+        "source": "Mumbai",
+        "duration": "01 h 50 m",
+        "type": "Non stop",
+        "arrivalTime": "22:25",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,179"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 338",
+        "depTime": "20:35",
+        "source": "Mumbai",
+        "duration": "01 h 40 m",
+        "type": "Non stop",
+        "arrivalTime": "22:15",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,181"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 325",
+        "depTime": "21:35",
+        "source": "Mumbai",
+        "duration": "01 h 45 m",
+        "type": "Non stop",
+        "arrivalTime": "23:20",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,552"
+    },
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1363",
+        "depTime": "13:00",
+        "source": "Mumbai",
+        "duration": "01 h 30 m",
+        "type": "Non stop",
+        "arrivalTime": "14:30",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,599"
+    },
+    {
+        "company": "Vistara",
+        "flightNo": "UK 851",
+        "depTime": "07:00",
+        "source": "Mumbai",
+        "duration": "01 h 45 m",
+        "type": "Non stop",
+        "arrivalTime": "08:45",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,654"
+    },
+    {
+        "company": "Vistara",
+        "flightNo": "UK 857",
+        "depTime": "21:30",
+        "source": "Mumbai",
+        "duration": "01 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "22:50",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,654"
+    }
+]
