@@ -52,13 +52,31 @@
         <h3 class="text-white">Personal Details</h3>
       </div>
 
+      <script>
+        let list=[];
+        async function callapi(){
+          const src = document.getElementById("source").value;
+          const dest = document.getElementById("destination").value;
+          console.log(src)
+          console.log(dest)
+          await fetch(`http://127.0.0.1:8000/src=${src}&dest=${dest}`)
+          .then(res => res.json())
+          .then(data =>{ list=data})
+          
+        }
+        function check(){
+          console.log(list);
+        }
+
+      </script>
+
       <div class="input6"><!--input6-->
         <input type="text" class="input-group" placeholder="Full Name">
         <input type="text" class="input-group" placeholder="Phone Number">
         <input type="email" class="input-group1" placeholder="Email">
       </div><!--input6-->
-      <button type="button" value="Submit" class="input" >Submit</button>
-      <button type="reset" class="btn btn-primary">Clear Form</button>
+      <button type="button" value="Submit" class="input" onclick="callapi()">Submit</button>
+      <button type="reset" class="btn btn-primary" onclick="check()">Clear Form</button>
     </div>
 
   </form>
