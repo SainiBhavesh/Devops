@@ -6,7 +6,7 @@
 }
 body {
 	color: #FFFFFF;
-	background-image: url(bookingForm/img/airline.jpg);
+	background-image: url(readme-images/airplane.jpg);
     background-size: cover;
 	/* background: hsl(248, 75%, 8%); */
 	display: flex;

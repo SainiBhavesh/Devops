@@ -52,7 +52,7 @@
         <h3 class="text-white">Personal Details</h3>
       </div>
 
-      <script>
+      <!-- <script>
         let list=[];
         async function callapi(){
           const src = document.getElementById("source").value;
@@ -64,18 +64,21 @@
           .then(data =>{ list=data})
           
         }
+        function listPage(){
+          
+        }
         function check(){
           console.log(list);
-        }
+        } -->
 
-      </script>
+      <!-- </script> -->
 
       <div class="input6"><!--input6-->
         <input type="text" class="input-group" placeholder="Full Name">
         <input type="text" class="input-group" placeholder="Phone Number">
         <input type="email" class="input-group1" placeholder="Email">
       </div><!--input6-->
-      <button type="button" value="Submit" class="input" onclick="callapi()">Submit</button>
+      <button type="button" value="Submit" class="input" onclick="callapi()"><a href="flightList.html">Submit</a></button>
       <button type="reset" class="btn btn-primary" onclick="check()">Clear Form</button>
     </div>
 
@@ -87,9 +90,7 @@
   Destination:
   <div id="dst"></div> -->
 
-  <div class="content">
-    <textarea name="content" id="pricebox" cols="30" rows="10"></textarea>
-  </div>
+
 
   <script src="flight.js">
 
